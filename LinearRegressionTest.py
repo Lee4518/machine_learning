@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
-#2026.8.16 测试github远程提交。第二次提交
+#2026.8.16 测试github远程提交。第三次提交
 # --- 1. 生成少量样本数据 ---
 # 设置随机种子，使结果可复现
 np.random.seed(42)
